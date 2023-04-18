@@ -1,0 +1,3 @@
+attrdict
+yfinance
+wxPython
